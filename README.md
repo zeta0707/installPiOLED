@@ -1,5 +1,6 @@
 # installPiOLED
-Install the Adafruit PiOLED 128x32 Monochrome OLED driver (3527)
+Install the Adafruit PiOLED 128x64 Monochrome OLED driver (3527)   
+And modify to print more info on additional 4 lines
 
 Original article on JetsonHacks: https://wp.me/p7ZgI9-33H
 
